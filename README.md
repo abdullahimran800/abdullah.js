@@ -76,7 +76,6 @@ To test your solutions:
 
 # Run single test
 npm test js-basics/tests/task1.test.js
-
 # Run test for specific folder
 npm test -- js-basics
 

@@ -169,9 +169,9 @@ Make your changes in the appropriate folder (e.g., `js-basics/tasks/...`).
 
 ```bash
 git add .
-git commit -m "TASK-JS-BASICS-01 completed"
+git commit -m "TASK-JS-BASICS-AbdullahIm90 completed"
 git push origin TASK-JS-BASICS-01
-```
+``` 
 
 ### 3. Open a Pull Request (PR)
 
